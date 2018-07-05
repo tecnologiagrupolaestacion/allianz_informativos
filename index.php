@@ -1,4 +1,4 @@
 <?php
 
-echo "pruebas"
+echo "404 Error pages"
 ?>
